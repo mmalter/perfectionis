@@ -13,6 +13,6 @@ In other words, this framework aims to exhaustively replicate the typical flow d
 
 perfectionis uses ASGI, a web server interface built for concurrency.
 
-It is loosely inspired by cowboy : https://ninenines.eu/docs/2.8/guide/rest_flowcharts/
+It is loosely inspired by cowboy : https://ninenines.eu/docs/en/cowboy/2.8/guide/rest_flowcharts/
 
 I encourage you to use Erlang/OTP and cowboy.
